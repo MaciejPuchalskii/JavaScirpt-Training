@@ -1,4 +1,4 @@
-# JavaScirpt-Trainin
+# JavaScirpt-Training #1
 
 First Project in JavaScript after 5h of course
 
